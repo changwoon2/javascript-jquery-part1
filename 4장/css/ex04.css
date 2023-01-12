@@ -1,0 +1,19 @@
+.hello {
+  background-image: url(../img/world.png);
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1200px;
+  height: 800px;
+}
+
+.hello .text {
+  left: 500px;
+  top: 500px;
+  color: #fff;
+  font-family: Verdana !important;
+  font-size: 40px !important;
+  text-shadow: 0 0 5px #000;
+  position: absolute;
+  font-weight: bold;
+}
